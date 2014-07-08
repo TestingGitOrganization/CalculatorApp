@@ -1,0 +1,1 @@
+// This class is meant to calculate addition between n numbers.
