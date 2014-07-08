@@ -12,3 +12,7 @@ Add::~Add(){
 void Add::setValues(int tempa, int tempb){
 	a = tempa; b = tempb;
 }
+
+int Add::getAddResult()const{
+	return a+b;
+}
