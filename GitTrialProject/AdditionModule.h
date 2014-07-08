@@ -14,7 +14,7 @@ private: // attribute
 
 public: //behaviour
 	int getAddResult()const;
-	int setValues(int tempa, int tempb);
+	void setValues(int tempa, int tempb);
 };
 
 #endif
