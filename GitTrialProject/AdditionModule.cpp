@@ -14,5 +14,6 @@ void Add::setValues(int tempa, int tempb){
 }
 
 int Add::getAddResult()const{
+	// return the result
 	return a+b;
 }
